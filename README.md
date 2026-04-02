@@ -76,7 +76,7 @@ If any log is modified:
 ## 🛠️ Installation & Setup
 
 1. Clone the repository:
-   git clone [https://github.com/your-username/tamper-evident-logging.git](https://github.com/your-username/tamper-evident-logging.git)
+   git clone [Git Repo clone](https://github.com/chandershekhar00/Tamper-Evident-Logging-System.git)
    cd tamper-evident-logging
 
 2. Run the program:
@@ -181,9 +181,9 @@ tamper-evident-logging/
 
 ## 👨‍💻 Author
 
-Chandrashekhar Tyagi
-chandershekhar8433@gmail.com
-+918439443923
+* Chandrashekhar Tyagi
+* chandershekhar8433@gmail.com
+* +918439443923
 
 ---
 
